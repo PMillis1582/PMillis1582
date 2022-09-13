@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PMillis15
+- 👋 Hi, I’m @parkerMillis
 - 👀 I’m interested in software development, information security, and database management
 - 🌱 I’m currently learning Python, MySQL, Information Security, Computer Networks
 - 💞️ I’m looking to collaborate on innovative projects that present new opportunities for me to learn
